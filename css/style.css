@@ -133,7 +133,7 @@ a:hover {
 
 .bold:hover {
     border-right: 3px solid #782221; 
-    transition: border-right 0.4s ease;
+    transition: border-right 0.35s ease;
 }
 
 .professional-profile {
